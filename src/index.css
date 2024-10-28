@@ -14,12 +14,12 @@
 }
 
 body {
-  margin: 0 auto;
+  margin: 0;
   display: flex;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: aliceblue;
+  background: linear-gradient(#8ed1f2);
 }
 
 h1,
